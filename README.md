@@ -12,10 +12,10 @@ This repository contains all completed audit reports, organized by date and proj
 
 | Project Name                               | Date           | Auditor        |
 |--------------------------------------------|----------------|----------------|
-| [BIDO Contract](https://github.com/Bidohub/Audit-Report/blob/main/Thu%20Mar%2021%202024-Bido%20Audit%20Report.pdf)    | Mar 2024  | ScaleBit      |
+| [BIDO Contract v1](https://github.com/Bidohub/Audit-Report/blob/main/Thu%20Mar%2021%202024-Bido%20Audit%20Report.pdf)    | Mar 2024  | ScaleBit |
 
 
 
 ### Contact
 
-For inquiries or specific questions regarding our finalized and in-progress audit reports feeel free to consult [Official Documentation](https://bidohub.gitbook.io/bido-docs)
+For inquiries or specific questions regarding our finalized and in-progress audit reports feel free to consult [Official Documentation](https://bidohub.gitbook.io/bido-docs)
