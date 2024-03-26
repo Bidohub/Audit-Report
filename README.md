@@ -12,7 +12,7 @@ This repository contains all completed audit reports, organized by date and proj
 
 | Project Name                               | Date           | Auditor        |
 |--------------------------------------------|----------------|----------------|
-| [BIDO Contract]()    | Mar 2024  | ScaleBit      |
+| [BIDO Contract](https://github.com/Bidohub/Audit-Report/blob/main/Thu%20Mar%2021%202024-Bido%20Audit%20Report.pdf)    | Mar 2024  | ScaleBit      |
 
 
 
