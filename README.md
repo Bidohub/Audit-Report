@@ -11,10 +11,9 @@ This repository contains all completed audit reports, organized by date and proj
 ### List of reports
 
 | Project Name                               | Date           | Auditor        |
-|--------------------------------------------|----------------|----------------|
-| [BIDO Contract v1](https://github.com/Bidohub/Audit-Report/blob/main/Thu%20Mar%2021%202024-Bido%20Audit%20Report.pdf)    | Mar 2024  | ScaleBit |
-
-
+|--------------------------------------------|----------------|----------------| 
+| [BIDO Contract v1](https://github.com/Bidohub/Audit-Report/blob/main/Thu%20Mar%2021%202024-Bido%20Audit%20Report.pdf)    | Mar 21,2024  | ScaleBit |
+| [BIDO Contract v1]([https://github.com/Bidohub/Audit-Report/blob/main/Thu%20Mar%2021%202024-Bido%20Audit%20Report.pdf](https://github.com/Bidohub/Audit-Report/blob/main/Supremacy-Audit-Report-Bido-v0.1.pdf)    | Mar 31,2024  | Supremacy |
 
 ### Contact
 
